@@ -1,0 +1,18 @@
+* {
+ margin: auto;
+ padding: auto;
+}
+
+.form {
+    display: none;
+   
+}
+.error {
+    padding-left: 80px;
+    display: none;
+    color: firebrick;
+}
+.success {
+    padding: auto;
+    color: darkgreen;
+}
